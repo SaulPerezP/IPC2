@@ -4,8 +4,8 @@
 
 
 int main() {
-    int def_var = 15;
-    printf("la dirección de la variable es: %p\n", &def_var);
+    int dir_var = 15;
+    printf("la dirección de la variable es: %p\n", &dir_var);
     return 0;
 }
   
